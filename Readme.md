@@ -10,6 +10,6 @@ This repository is an example on how to test a [Python](https://python.org) proj
 * The [docker-compose.yml](docker-compose.yml) defines the 'app' Docker service and how it should be built
 * The [pipeline.yml](.buildkite/pipeline.yml) runs the command using Docker Compose
 
-## License
+## License 
 
 See [Licence.md](Licence.md) (MIT)
